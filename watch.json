@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Rolex Submariner",
+        "description": "Luxury dive watch with high precision.",
+        "price": 12000,
+        "image": "assets/BladeFury_After_41795def-d705-48b5-b686-fd789e680099_400x.webp"
+    },
+    {
+        "name": "Omega Speedmaster",
+        "description": "Classic chronograph worn on the moon.",
+        "price": 6500,
+        "image": "assets/UTBL31_600x.webp"
+    },
+    {
+        "name": "Tag Heuer Carrera",
+        "description": "Elegant sports watch with racing heritage.",
+        "price": 5000,
+        "image": "assets/ATBJ17_Front_1200x_f34f266c-6da4-46bd-92d3-c3ffeb8749be_400x.webp"
+    },
+    {
+        "name": "Patek Philippe Nautilus",
+        "description": "Luxury sports watch with timeless design.",
+        "price": 40000,
+        "image": "assets/1_After_4-2_600x.webp"
+    },
+    {
+        "name": "Audemars Piguet Royal Oak",
+        "description": "Iconic luxury steel sports watch.",
+        "price": 50000,
+        "image": "assets/ATBJ13_Front_400x.webp"
+    }
+    
+]

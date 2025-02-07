@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Admin Dashboard</h1>
+        <a href="index.html" class="btn-backhome">Back to Home</a>
+    </header>
+    
+    <main>
+        <section class="admin-section">
+            <h2>Manage Watches</h2>
+            <form id="watch-form">
+                <input type="text" id="watch-name" placeholder="Watch Name" required>
+                <input type="text" id="watch-description" placeholder="Description" required>
+                <input type="number" id="watch-price" placeholder="Price" required>
+                <input type="url" id="watch-image" placeholder="Image URL" required>
+                <button type="submit">Add Watch</button>
+            </form>
+            <div id="watch-list"></div>
+        </section>
+    </main>
+
+    <script src="admin.js"></script>
+</body>
+</html>
